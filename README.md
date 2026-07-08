@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Palakraibole01/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Palakraibole01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0867-transpose-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Palakraibole01/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Palakraibole01/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
