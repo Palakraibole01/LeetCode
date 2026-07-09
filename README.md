@@ -58,4 +58,5 @@
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Palakraibole01/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Palakraibole01/LeetCode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/Palakraibole01/LeetCode/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
