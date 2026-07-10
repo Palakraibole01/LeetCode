@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0989-add-to-array-form-of-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Palakraibole01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -61,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Palakraibole01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Palakraibole01/LeetCode/tree/master/0709-to-lower-case) |
