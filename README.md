@@ -39,6 +39,7 @@
 ## Counting
 |  |
 | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Palakraibole01/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/Palakraibole01/LeetCode/tree/master/1854-maximum-population-year) |
 ## Prefix Sum
 |  |
@@ -64,6 +65,7 @@
 | [1528-shuffle-string](https://github.com/Palakraibole01/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Palakraibole01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Palakraibole01/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Palakraibole01/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Sorting
 |  |
