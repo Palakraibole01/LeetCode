@@ -80,6 +80,7 @@
 | [1668-maximum-repeating-substring](https://github.com/Palakraibole01/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/Palakraibole01/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Palakraibole01/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Palakraibole01/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Sorting
 |  |
