@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Palakraibole01/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Palakraibole01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Palakraibole01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Palakraibole01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Palakraibole01/LeetCode/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -101,6 +102,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Palakraibole01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
