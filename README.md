@@ -12,6 +12,7 @@
 | [0566-reshape-the-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Palakraibole01/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Palakraibole01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Palakraibole01/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -28,6 +29,7 @@
 | [0066-plus-one](https://github.com/Palakraibole01/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0989-add-to-array-form-of-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Palakraibole01/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Palakraibole01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Palakraibole01/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Palakraibole01/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Trie
 |  |
 | ------- |
