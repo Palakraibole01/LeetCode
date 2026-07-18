@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palakraibole01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Palakraibole01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Palakraibole01/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Palakraibole01/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Palakraibole01/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Palakraibole01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Palakraibole01/LeetCode/tree/master/0055-jump-game) |
 | [1668-maximum-repeating-substring](https://github.com/Palakraibole01/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
@@ -132,6 +134,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Palakraibole01/LeetCode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Palakraibole01/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Trie
