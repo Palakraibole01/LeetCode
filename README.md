@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Palakraibole01/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Palakraibole01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0885-spiral-matrix-iii) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Palakraibole01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0885-spiral-matrix-iii) |
@@ -80,6 +82,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Palakraibole01/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Palakraibole01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
