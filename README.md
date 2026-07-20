@@ -37,6 +37,7 @@
 | [0066-plus-one](https://github.com/Palakraibole01/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Palakraibole01/LeetCode/tree/master/0189-rotate-array) |
+| [0754-reach-a-number](https://github.com/Palakraibole01/LeetCode/tree/master/0754-reach-a-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Palakraibole01/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -154,4 +155,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Palakraibole01/LeetCode/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Palakraibole01/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+## Binary Search
+|  |
+| ------- |
+| [0754-reach-a-number](https://github.com/Palakraibole01/LeetCode/tree/master/0754-reach-a-number) |
 <!---LeetCode Topics End-->
