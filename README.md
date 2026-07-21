@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/Palakraibole01/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Palakraibole01/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Palakraibole01/LeetCode/tree/master/0198-house-robber) |
+| [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [0566-reshape-the-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0885-spiral-matrix-iii) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Palakraibole01/LeetCode/tree/master/0075-sort-colors) |
+| [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
@@ -158,5 +160,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [0754-reach-a-number](https://github.com/Palakraibole01/LeetCode/tree/master/0754-reach-a-number) |
 <!---LeetCode Topics End-->
