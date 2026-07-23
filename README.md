@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Palakraibole01/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Palakraibole01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/Palakraibole01/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palakraibole01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Palakraibole01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0054-spiral-matrix) |
@@ -123,12 +124,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Palakraibole01/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Palakraibole01/LeetCode/tree/master/0075-sort-colors) |
 | [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Palakraibole01/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palakraibole01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Palakraibole01/LeetCode/tree/master/0075-sort-colors) |
