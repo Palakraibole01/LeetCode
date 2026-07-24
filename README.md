@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Palakraibole01/LeetCode/tree/master/1854-maximum-population-year) |
+| [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0055-jump-game](https://github.com/Palakraibole01/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Palakraibole01/LeetCode/tree/master/0198-house-robber) |
 | [1668-maximum-repeating-substring](https://github.com/Palakraibole01/LeetCode/tree/master/1668-maximum-repeating-substring) |
+| [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [1768-merge-strings-alternately](https://github.com/Palakraibole01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Palakraibole01/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
 | [2000-reverse-prefix-of-word](https://github.com/Palakraibole01/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -168,4 +171,8 @@
 | [0074-search-a-2d-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [0754-reach-a-number](https://github.com/Palakraibole01/LeetCode/tree/master/0754-reach-a-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
