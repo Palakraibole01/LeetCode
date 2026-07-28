@@ -129,6 +129,7 @@
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
 | [2000-reverse-prefix-of-word](https://github.com/Palakraibole01/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Palakraibole01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0075-sort-colors](https://github.com/Palakraibole01/LeetCode/tree/master/0075-sort-colors) |
 | [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Palakraibole01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Palakraibole01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
