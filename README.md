@@ -31,6 +31,7 @@
 | [1528-shuffle-string](https://github.com/Palakraibole01/LeetCode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Palakraibole01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Palakraibole01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1813-sentence-similarity-iii](https://github.com/Palakraibole01/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1854-maximum-population-year](https://github.com/Palakraibole01/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Palakraibole01/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Math
@@ -124,6 +125,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/Palakraibole01/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Palakraibole01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Palakraibole01/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1813-sentence-similarity-iii](https://github.com/Palakraibole01/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
 | [2000-reverse-prefix-of-word](https://github.com/Palakraibole01/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -148,6 +150,7 @@
 | [0925-long-pressed-name](https://github.com/Palakraibole01/LeetCode/tree/master/0925-long-pressed-name) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Palakraibole01/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1813-sentence-similarity-iii](https://github.com/Palakraibole01/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Palakraibole01/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
