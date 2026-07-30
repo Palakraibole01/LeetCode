@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/Palakraibole01/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Palakraibole01/LeetCode/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0754-reach-a-number](https://github.com/Palakraibole01/LeetCode/tree/master/0754-reach-a-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Palakraibole01/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -109,6 +110,7 @@
 | [0058-length-of-last-word](https://github.com/Palakraibole01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0556-next-greater-element-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Palakraibole01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -148,6 +150,7 @@
 | [0075-sort-colors](https://github.com/Palakraibole01/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Palakraibole01/LeetCode/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/Palakraibole01/LeetCode/tree/master/0925-long-pressed-name) |
