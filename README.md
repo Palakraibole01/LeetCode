@@ -34,6 +34,7 @@
 | [1813-sentence-similarity-iii](https://github.com/Palakraibole01/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1854-maximum-population-year](https://github.com/Palakraibole01/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Palakraibole01/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Palakraibole01/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [1813-sentence-similarity-iii](https://github.com/Palakraibole01/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Palakraibole01/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Palakraibole01/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Palakraibole01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -157,6 +159,7 @@
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Palakraibole01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/Palakraibole01/LeetCode/tree/master/1813-sentence-similarity-iii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Palakraibole01/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Palakraibole01/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
@@ -185,6 +188,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [0754-reach-a-number](https://github.com/Palakraibole01/LeetCode/tree/master/0754-reach-a-number) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Palakraibole01/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Sliding Window
 |  |
 | ------- |
