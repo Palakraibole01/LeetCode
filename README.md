@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Palakraibole01/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Palakraibole01/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Palakraibole01/LeetCode/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Palakraibole01/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -108,6 +110,7 @@
 | [0014-longest-common-prefix](https://github.com/Palakraibole01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Palakraibole01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Palakraibole01/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Palakraibole01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
