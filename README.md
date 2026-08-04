@@ -35,6 +35,7 @@
 | [1854-maximum-population-year](https://github.com/Palakraibole01/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Palakraibole01/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Palakraibole01/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
+| [3731-find-missing-elements](https://github.com/Palakraibole01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0001-two-sum](https://github.com/Palakraibole01/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Palakraibole01/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [3731-find-missing-elements](https://github.com/Palakraibole01/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [1859-sorting-the-sentence](https://github.com/Palakraibole01/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Palakraibole01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Palakraibole01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
