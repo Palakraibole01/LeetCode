@@ -52,6 +52,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Palakraibole01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Palakraibole01/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Palakraibole01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -207,4 +208,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Palakraibole01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Palakraibole01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
