@@ -53,6 +53,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Palakraibole01/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Palakraibole01/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Palakraibole01/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Palakraibole01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
@@ -137,6 +138,7 @@
 | [1678-goal-parser-interpretation](https://github.com/Palakraibole01/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Palakraibole01/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Palakraibole01/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Palakraibole01/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Palakraibole01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Palakraibole01/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1813-sentence-similarity-iii](https://github.com/Palakraibole01/LeetCode/tree/master/1813-sentence-similarity-iii) |
