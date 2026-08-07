@@ -51,6 +51,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Palakraibole01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Palakraibole01/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Palakraibole01/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Palakraibole01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
@@ -127,6 +128,7 @@
 | [0925-long-pressed-name](https://github.com/Palakraibole01/LeetCode/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Palakraibole01/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Palakraibole01/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Palakraibole01/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/Palakraibole01/LeetCode/tree/master/1528-shuffle-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
