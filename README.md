@@ -87,6 +87,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/Palakraibole01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1854-maximum-population-year](https://github.com/Palakraibole01/LeetCode/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
 ## Divide and Conquer
@@ -128,6 +129,7 @@
 | [0777-swap-adjacent-in-lr-string](https://github.com/Palakraibole01/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0925-long-pressed-name](https://github.com/Palakraibole01/LeetCode/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Palakraibole01/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Palakraibole01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Palakraibole01/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Palakraibole01/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/Palakraibole01/LeetCode/tree/master/1528-shuffle-string) |
@@ -203,10 +205,12 @@
 | [0074-search-a-2d-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [0754-reach-a-number](https://github.com/Palakraibole01/LeetCode/tree/master/0754-reach-a-number) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Palakraibole01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Palakraibole01/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/Palakraibole01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
 ## Counting Sort
 |  |
