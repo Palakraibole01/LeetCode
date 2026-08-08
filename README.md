@@ -67,6 +67,7 @@
 | [0867-transpose-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Palakraibole01/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Palakraibole01/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Palakraibole01/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/Palakraibole01/LeetCode/tree/master/1528-shuffle-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Palakraibole01/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Palakraibole01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Palakraibole01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Palakraibole01/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
