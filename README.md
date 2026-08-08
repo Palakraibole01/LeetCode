@@ -20,6 +20,7 @@
 | [0198-house-robber](https://github.com/Palakraibole01/LeetCode/tree/master/0198-house-robber) |
 | [0436-find-right-interval](https://github.com/Palakraibole01/LeetCode/tree/master/0436-find-right-interval) |
 | [0566-reshape-the-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0848-shifting-letters](https://github.com/Palakraibole01/LeetCode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -87,6 +88,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/Palakraibole01/LeetCode/tree/master/0848-shifting-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Palakraibole01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1854-maximum-population-year](https://github.com/Palakraibole01/LeetCode/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/Palakraibole01/LeetCode/tree/master/1871-jump-game-vii) |
@@ -127,6 +129,7 @@
 | [0686-repeated-string-match](https://github.com/Palakraibole01/LeetCode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Palakraibole01/LeetCode/tree/master/0709-to-lower-case) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Palakraibole01/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0848-shifting-letters](https://github.com/Palakraibole01/LeetCode/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Palakraibole01/LeetCode/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Palakraibole01/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Palakraibole01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
