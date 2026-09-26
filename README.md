@@ -44,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/Palakraibole01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Palakraibole01/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Palakraibole01/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Palakraibole01/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Palakraibole01/LeetCode/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -63,6 +64,7 @@
 | [0043-multiply-strings](https://github.com/Palakraibole01/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Palakraibole01/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Palakraibole01/LeetCode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Palakraibole01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/0867-transpose-matrix) |
@@ -122,6 +124,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Palakraibole01/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Palakraibole01/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Palakraibole01/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Palakraibole01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Palakraibole01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0556-next-greater-element-iii](https://github.com/Palakraibole01/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -234,4 +237,8 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Palakraibole01/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Palakraibole01/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
