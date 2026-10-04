@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Palakraibole01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Palakraibole01/LeetCode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,4 +244,5 @@
 | ------- |
 | [0067-add-binary](https://github.com/Palakraibole01/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Palakraibole01/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Palakraibole01/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
