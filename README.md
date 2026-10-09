@@ -55,6 +55,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Palakraibole01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Palakraibole01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Palakraibole01/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Palakraibole01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Palakraibole01/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Palakraibole01/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Palakraibole01/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -249,4 +250,5 @@
 | [0190-reverse-bits](https://github.com/Palakraibole01/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Palakraibole01/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Palakraibole01/LeetCode/tree/master/0338-counting-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Palakraibole01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
